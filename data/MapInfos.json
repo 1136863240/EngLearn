@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"卧室","order":1,"parentId":0,"scrollX":817,"scrollY":431},
-{"id":2,"expanded":false,"name":"电脑","order":2,"parentId":1,"scrollX":817,"scrollY":431}
+{"id":1,"expanded":true,"name":"卧室","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"电脑","order":2,"parentId":1,"scrollX":818.5,"scrollY":431},
+{"id":3,"expanded":false,"name":"客厅","order":3,"parentId":0,"scrollX":832,"scrollY":640}
 ]
